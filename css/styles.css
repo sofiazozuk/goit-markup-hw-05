@@ -518,7 +518,7 @@ align-items: baseline;
 
 }
 /* Modal */
-/* .backdrop {
+.backdrop {
   position: fixed;
   inset: 0;
   display: flex;
@@ -638,12 +638,12 @@ align-items: baseline;
   color: #fff;
 }
 /* checkbox */
-/* .modal-checkbox {
+.modal-checkbox {
   display: flex;
   gap: 8px;
   margin-bottom: 24px;
 }
-.modal-checkbox-input:checked + .modal-checkbox-check .modal-checkbox-icon {
+.modal-checkbox-input:checked + .modal-checkbox-label .modal-checkbox-check {
   opacity: 1;
 }
 .modal-checkbox-check {
@@ -681,4 +681,4 @@ align-items: baseline;
   justify-content: center;
   align-items: center;
   gap: 16px;
-}  */
+} 

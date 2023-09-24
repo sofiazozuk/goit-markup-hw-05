@@ -464,7 +464,7 @@ textarea {
   height: 40px;
 }
 .label-div-subscribe {
-  display: flex;
+  margin-left: 192px;
 }
 .label-subscribe {
   display: flex;

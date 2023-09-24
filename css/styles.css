@@ -464,7 +464,7 @@ textarea {
   height: 40px;
 }
 .label-div-subscribe {
-  margin-left: 192px;
+  display: flex;
 }
 .label-subscribe {
   display: flex;
@@ -512,9 +512,9 @@ letter-spacing: 0.64px
  fill: #fff;
 }
 .button-subscribe-div {
+display: flex;
 margin-left: 24px;
 align-items: baseline;
-justify-content: center;
 
 }
 /* Modal */

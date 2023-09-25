@@ -589,6 +589,10 @@ align-items: baseline;
   display: block; 
   margin-bottom: 4px; 
 }
+.input-svg-conteiner {
+  position: relative;
+  
+}
 
 .modal-close {
   display: flex; 

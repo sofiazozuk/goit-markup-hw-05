@@ -527,6 +527,7 @@ color: #FFF;
 }
 .modal-send-icon {
  fill: #fff;
+ margin-left: 16px; 
 }
 .button-subscribe-div {
 display: flex;

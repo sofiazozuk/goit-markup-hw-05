@@ -479,6 +479,9 @@ textarea {
   margin-bottom: 16px;
   display: inline-block;
 }
+.form-subscribe {
+display: flex;
+}
 .input-label-subscribe {
   display: flex;
   width: 264px;

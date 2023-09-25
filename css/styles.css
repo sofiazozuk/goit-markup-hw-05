@@ -482,6 +482,9 @@ textarea {
 .form-subscribe {
 display: flex;
 }
+.label-subscribe {
+  gap: 24px;
+}
 .input-label-subscribe {
   display: flex;
   width: 264px;

@@ -652,6 +652,9 @@ align-items: baseline;
 .modal-input-icon:focus {
   fill: #4D5AE5;
 }
+.div-comment {
+  margin-bottom: 16px;
+}
 
 .modal-comment {
   width: 100%;

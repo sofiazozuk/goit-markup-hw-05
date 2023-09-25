@@ -481,10 +481,11 @@ textarea {
 }
 .form-subscribe {
 display: flex;
+ gap: 24px;
 }
-.label-subscribe {
-  gap: 24px;
-}
+
+.label-subscribe 
+ 
 .input-label-subscribe {
   display: flex;
   width: 264px;

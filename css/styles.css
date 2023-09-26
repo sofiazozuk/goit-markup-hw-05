@@ -649,7 +649,7 @@ align-items: baseline;
   transform: translateY(-50%);
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.user-phone:focus + .modal-input-icon {
+input:focus.modal-input-icon {
   fill: #4D5AE5;
 }
 .div-comment {

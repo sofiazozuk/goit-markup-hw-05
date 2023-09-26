@@ -655,6 +655,9 @@ align-items: baseline;
 .div-comment {
   margin-bottom: 16px;
 }
+.modal-comment::placeholder {
+color:rgba(46, 47, 66, 0.40) ;
+}
 
 .modal-comment {
   width: 100%;

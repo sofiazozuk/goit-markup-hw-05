@@ -652,6 +652,9 @@ align-items: baseline;
 .modal-input:focus + .modal-input-icon {
   fill: #4D5AE5;
 }
+.div-comment {
+  margin-bottom: 16px;
+}
 .modal-comment::placeholder {
 color:rgba(46, 47, 66, 0.40) ;
 }
@@ -662,7 +665,6 @@ color:rgba(46, 47, 66, 0.40) ;
   flex-shrink: 0;
   border-radius: 4px;
   border: 1px solid rgba(46, 47, 66, 0.4);
-  margin-bottom: 16px;
   font-size: 12px;
   line-height: 1.17; 
   letter-spacing: 0.04em;
